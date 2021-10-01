@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/pxp928">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pxp928&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=26"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pxp928&layout=compact&langs_count=3&theme=radical&line_height=26"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pxp928&layout=compact&theme=radical&line_height=26"/>
   </a>
 </p>
 
