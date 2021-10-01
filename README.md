@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pxp928
-- 👀 I’m interested in security, devops, programming and general automation
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on Open Source projects
+- 👋  Hi, I’m @pxp928
+- 👀  I’m interested in security, devops, programming and general automation
+- 🌱  I’m currently learning golang
+- 💞️  I’m looking to collaborate on Open Source projects
 
 <p align="center">
   <a href="https://linkedin.com/in/pxp928" target="blank">
