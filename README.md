@@ -23,16 +23,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/in-toto/in-toto-golang/issues/137) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-2. ❌ Closed PR [#137](https://github.com/in-toto/in-toto-golang/pull/137) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-3. 🗣 Commented on [#137](https://github.com/in-toto/in-toto-golang/issues/137) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-4. 💪 Opened PR [#137](https://github.com/in-toto/in-toto-golang/pull/137) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-5. 🎉 Merged PR [#58](https://github.com/boxboat/in-toto-golang/pull/58) in [boxboat/in-toto-golang](https://github.com/boxboat/in-toto-golang)
-6. 💪 Opened PR [#58](https://github.com/boxboat/in-toto-golang/pull/58) in [boxboat/in-toto-golang](https://github.com/boxboat/in-toto-golang)
-7. 🗣 Commented on [#127](https://github.com/in-toto/in-toto-golang/issues/127) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+1. 💪 Opened PR [#59](https://github.com/boxboat/in-toto-golang/pull/59) in [boxboat/in-toto-golang](https://github.com/boxboat/in-toto-golang)
+2. 🗣 Commented on [#137](https://github.com/in-toto/in-toto-golang/issues/137) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+3. ❌ Closed PR [#137](https://github.com/in-toto/in-toto-golang/pull/137) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+4. 🗣 Commented on [#137](https://github.com/in-toto/in-toto-golang/issues/137) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+5. 💪 Opened PR [#137](https://github.com/in-toto/in-toto-golang/pull/137) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+6. 🎉 Merged PR [#58](https://github.com/boxboat/in-toto-golang/pull/58) in [boxboat/in-toto-golang](https://github.com/boxboat/in-toto-golang)
+7. 💪 Opened PR [#58](https://github.com/boxboat/in-toto-golang/pull/58) in [boxboat/in-toto-golang](https://github.com/boxboat/in-toto-golang)
 8. 🗣 Commented on [#127](https://github.com/in-toto/in-toto-golang/issues/127) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 9. 🗣 Commented on [#127](https://github.com/in-toto/in-toto-golang/issues/127) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-10. ❌ Closed PR [#57](https://github.com/boxboat/in-toto-golang/pull/57) in [boxboat/in-toto-golang](https://github.com/boxboat/in-toto-golang)
+10. 🗣 Commented on [#127](https://github.com/in-toto/in-toto-golang/issues/127) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 <!--END_SECTION:activity-->
 
 <!---
