@@ -23,16 +23,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/mlieberman85/supply-chain-examples/issues/26) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
-2. 🗣 Commented on [#534](https://github.com/tektoncd/community/issues/534) in [tektoncd/community](https://github.com/tektoncd/community)
-3. 💪 Opened PR [#23](https://github.com/mlieberman85/supply-chain-examples/pull/23) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
-4. 🗣 Commented on [#1](https://github.com/mlieberman85/horismos/issues/1) in [mlieberman85/horismos](https://github.com/mlieberman85/horismos)
-5. 💪 Opened PR [#1](https://github.com/mlieberman85/horismos/pull/1) in [mlieberman85/horismos](https://github.com/mlieberman85/horismos)
-6. 🗣 Commented on [#149](https://github.com/in-toto/in-toto-golang/issues/149) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-7. 🗣 Commented on [#534](https://github.com/tektoncd/community/issues/534) in [tektoncd/community](https://github.com/tektoncd/community)
-8. 💪 Opened PR [#534](https://github.com/tektoncd/community/pull/534) in [tektoncd/community](https://github.com/tektoncd/community)
-9. 🎉 Merged PR [#1](https://github.com/pxp928/cli/pull/1) in [pxp928/cli](https://github.com/pxp928/cli)
-10. 💪 Opened PR [#1](https://github.com/pxp928/cli/pull/1) in [pxp928/cli](https://github.com/pxp928/cli)
+1. 🗣 Commented on [#1425](https://github.com/tektoncd/cli/issues/1425) in [tektoncd/cli](https://github.com/tektoncd/cli)
+2. 🗣 Commented on [#26](https://github.com/mlieberman85/supply-chain-examples/issues/26) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
+3. 🗣 Commented on [#534](https://github.com/tektoncd/community/issues/534) in [tektoncd/community](https://github.com/tektoncd/community)
+4. 💪 Opened PR [#23](https://github.com/mlieberman85/supply-chain-examples/pull/23) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
+5. 🗣 Commented on [#1](https://github.com/mlieberman85/horismos/issues/1) in [mlieberman85/horismos](https://github.com/mlieberman85/horismos)
+6. 💪 Opened PR [#1](https://github.com/mlieberman85/horismos/pull/1) in [mlieberman85/horismos](https://github.com/mlieberman85/horismos)
+7. 🗣 Commented on [#149](https://github.com/in-toto/in-toto-golang/issues/149) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+8. 🗣 Commented on [#534](https://github.com/tektoncd/community/issues/534) in [tektoncd/community](https://github.com/tektoncd/community)
+9. 💪 Opened PR [#534](https://github.com/tektoncd/community/pull/534) in [tektoncd/community](https://github.com/tektoncd/community)
+10. 🎉 Merged PR [#1](https://github.com/pxp928/cli/pull/1) in [pxp928/cli](https://github.com/pxp928/cli)
 <!--END_SECTION:activity-->
 
 <!---
