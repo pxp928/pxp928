@@ -23,16 +23,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
-2. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+1. 🗣 Commented on [#18](https://github.com/thesecuresoftwarefactory/ssf/issues/18) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+2. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
 3. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-4. 🗣 Commented on [#271](https://github.com/tektoncd/chains/issues/271) in [tektoncd/chains](https://github.com/tektoncd/chains)
-5. 💪 Opened PR [#272](https://github.com/tektoncd/chains/pull/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
-6. ❗️ Opened issue [#271](https://github.com/tektoncd/chains/issues/271) in [tektoncd/chains](https://github.com/tektoncd/chains)
-7. ❌ Closed PR [#29](https://github.com/mlieberman85/supply-chain-examples/pull/29) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
-8. 🗣 Commented on [#29](https://github.com/mlieberman85/supply-chain-examples/issues/29) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
-9. 💪 Opened PR [#3](https://github.com/thesecuresoftwarefactory/ssf/pull/3) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-10. 💪 Opened PR [#29](https://github.com/mlieberman85/supply-chain-examples/pull/29) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
+4. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+5. 🗣 Commented on [#271](https://github.com/tektoncd/chains/issues/271) in [tektoncd/chains](https://github.com/tektoncd/chains)
+6. 💪 Opened PR [#272](https://github.com/tektoncd/chains/pull/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
+7. ❗️ Opened issue [#271](https://github.com/tektoncd/chains/issues/271) in [tektoncd/chains](https://github.com/tektoncd/chains)
+8. ❌ Closed PR [#29](https://github.com/mlieberman85/supply-chain-examples/pull/29) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
+9. 🗣 Commented on [#29](https://github.com/mlieberman85/supply-chain-examples/issues/29) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
+10. 💪 Opened PR [#3](https://github.com/thesecuresoftwarefactory/ssf/pull/3) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 <!--END_SECTION:activity-->
 
 <!---
