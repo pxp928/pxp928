@@ -26,13 +26,13 @@
 1. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
 2. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
 3. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. 🗣 Commented on [#23](https://github.com/thesecuresoftwarefactory/ssf/issues/23) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-5. 💪 Opened PR [#24](https://github.com/thesecuresoftwarefactory/ssf/pull/24) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-6. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
-7. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-8. 🗣 Commented on [#18](https://github.com/thesecuresoftwarefactory/ssf/issues/18) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-9. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
-10. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
+5. 🗣 Commented on [#23](https://github.com/thesecuresoftwarefactory/ssf/issues/23) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+6. 💪 Opened PR [#24](https://github.com/thesecuresoftwarefactory/ssf/pull/24) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+7. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
+8. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+9. 🗣 Commented on [#18](https://github.com/thesecuresoftwarefactory/ssf/issues/18) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+10. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 <!---
