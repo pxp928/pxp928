@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
-2. 🗣 Commented on [#52](https://github.com/thesecuresoftwarefactory/ssf/issues/52) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-3. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. 🗣 Commented on [#154](https://github.com/in-toto/in-toto-golang/issues/154) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+2. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
+3. 🗣 Commented on [#52](https://github.com/thesecuresoftwarefactory/ssf/issues/52) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
 5. 🗣 Commented on [#154](https://github.com/in-toto/in-toto-golang/issues/154) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-6. ❌ Closed PR [#24](https://github.com/thesecuresoftwarefactory/ssf/pull/24) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-7. ❗️ Opened issue [#154](https://github.com/in-toto/in-toto-golang/issues/154) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-8. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
+6. 🗣 Commented on [#154](https://github.com/in-toto/in-toto-golang/issues/154) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+7. ❌ Closed PR [#24](https://github.com/thesecuresoftwarefactory/ssf/pull/24) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+8. ❗️ Opened issue [#154](https://github.com/in-toto/in-toto-golang/issues/154) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 9. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
 10. 🗣 Commented on [#272](https://github.com/tektoncd/chains/issues/272) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
