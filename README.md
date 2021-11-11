@@ -27,12 +27,12 @@
 2. 🗣 Commented on [#56](https://github.com/thesecuresoftwarefactory/ssf/issues/56) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 3. 🗣 Commented on [#56](https://github.com/thesecuresoftwarefactory/ssf/issues/56) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 4. 🗣 Commented on [#56](https://github.com/thesecuresoftwarefactory/ssf/issues/56) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-5. 💪 Opened PR [#56](https://github.com/thesecuresoftwarefactory/ssf/pull/56) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-6. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
+5. 🗣 Commented on [#56](https://github.com/thesecuresoftwarefactory/ssf/issues/56) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+6. 💪 Opened PR [#56](https://github.com/thesecuresoftwarefactory/ssf/pull/56) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 7. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
-8. 🗣 Commented on [#52](https://github.com/thesecuresoftwarefactory/ssf/issues/52) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-9. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
-10. 🗣 Commented on [#154](https://github.com/in-toto/in-toto-golang/issues/154) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+8. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
+9. 🗣 Commented on [#52](https://github.com/thesecuresoftwarefactory/ssf/issues/52) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+10. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 <!---
