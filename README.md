@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/thesecuresoftwarefactory/ssf/pull/72) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-2. ❌ Closed PR [#71](https://github.com/thesecuresoftwarefactory/ssf/pull/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-3. 🗣 Commented on [#71](https://github.com/thesecuresoftwarefactory/ssf/issues/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-4. 💪 Opened PR [#71](https://github.com/thesecuresoftwarefactory/ssf/pull/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-5. 💪 Opened PR [#60](https://github.com/thesecuresoftwarefactory/ssf/pull/60) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-6. ❌ Closed PR [#59](https://github.com/thesecuresoftwarefactory/ssf/pull/59) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-7. 🗣 Commented on [#59](https://github.com/thesecuresoftwarefactory/ssf/issues/59) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-8. 💪 Opened PR [#59](https://github.com/thesecuresoftwarefactory/ssf/pull/59) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-9. 🗣 Commented on [#57](https://github.com/thesecuresoftwarefactory/ssf/issues/57) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-10. 🗣 Commented on [#56](https://github.com/thesecuresoftwarefactory/ssf/issues/56) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+1. 🗣 Commented on [#72](https://github.com/thesecuresoftwarefactory/ssf/issues/72) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+2. 💪 Opened PR [#72](https://github.com/thesecuresoftwarefactory/ssf/pull/72) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+3. ❌ Closed PR [#71](https://github.com/thesecuresoftwarefactory/ssf/pull/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. 🗣 Commented on [#71](https://github.com/thesecuresoftwarefactory/ssf/issues/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+5. 💪 Opened PR [#71](https://github.com/thesecuresoftwarefactory/ssf/pull/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+6. 💪 Opened PR [#60](https://github.com/thesecuresoftwarefactory/ssf/pull/60) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+7. ❌ Closed PR [#59](https://github.com/thesecuresoftwarefactory/ssf/pull/59) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+8. 🗣 Commented on [#59](https://github.com/thesecuresoftwarefactory/ssf/issues/59) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+9. 💪 Opened PR [#59](https://github.com/thesecuresoftwarefactory/ssf/pull/59) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+10. 🗣 Commented on [#57](https://github.com/thesecuresoftwarefactory/ssf/issues/57) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 <!--END_SECTION:activity-->
 
 <!---
