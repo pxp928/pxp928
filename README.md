@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/tap8stry/tkn-intoto-formatter/issues/2) in [tap8stry/tkn-intoto-formatter](https://github.com/tap8stry/tkn-intoto-formatter)
-2. 💪 Opened PR [#2](https://github.com/tap8stry/tkn-intoto-formatter/pull/2) in [tap8stry/tkn-intoto-formatter](https://github.com/tap8stry/tkn-intoto-formatter)
-3. 🗣 Commented on [#73](https://github.com/thesecuresoftwarefactory/ssf/issues/73) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-4. 🗣 Commented on [#72](https://github.com/thesecuresoftwarefactory/ssf/issues/72) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-5. 💪 Opened PR [#72](https://github.com/thesecuresoftwarefactory/ssf/pull/72) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-6. ❌ Closed PR [#71](https://github.com/thesecuresoftwarefactory/ssf/pull/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-7. 🗣 Commented on [#71](https://github.com/thesecuresoftwarefactory/ssf/issues/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-8. 💪 Opened PR [#71](https://github.com/thesecuresoftwarefactory/ssf/pull/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-9. 💪 Opened PR [#60](https://github.com/thesecuresoftwarefactory/ssf/pull/60) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-10. ❌ Closed PR [#59](https://github.com/thesecuresoftwarefactory/ssf/pull/59) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+1. 🗣 Commented on [#22](https://github.com/thesecuresoftwarefactory/ssf/issues/22) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+2. ❗️ Closed issue [#22](https://github.com/thesecuresoftwarefactory/ssf/issues/22) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+3. ❗️ Closed issue [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+5. 🗣 Commented on [#2](https://github.com/tap8stry/tkn-intoto-formatter/issues/2) in [tap8stry/tkn-intoto-formatter](https://github.com/tap8stry/tkn-intoto-formatter)
+6. 💪 Opened PR [#2](https://github.com/tap8stry/tkn-intoto-formatter/pull/2) in [tap8stry/tkn-intoto-formatter](https://github.com/tap8stry/tkn-intoto-formatter)
+7. 🗣 Commented on [#73](https://github.com/thesecuresoftwarefactory/ssf/issues/73) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+8. 🗣 Commented on [#72](https://github.com/thesecuresoftwarefactory/ssf/issues/72) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+9. 💪 Opened PR [#72](https://github.com/thesecuresoftwarefactory/ssf/pull/72) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+10. ❌ Closed PR [#71](https://github.com/thesecuresoftwarefactory/ssf/pull/71) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 <!--END_SECTION:activity-->
 
 <!---
