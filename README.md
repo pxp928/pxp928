@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/thesecuresoftwarefactory/ssf/pull/87) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-2. 🗣 Commented on [#8](https://github.com/thesecuresoftwarefactory/ssf/issues/8) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-3. ❗️ Closed issue [#8](https://github.com/thesecuresoftwarefactory/ssf/issues/8) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-4. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
+1. 💪 Opened PR [#297](https://github.com/tektoncd/chains/pull/297) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. 💪 Opened PR [#87](https://github.com/thesecuresoftwarefactory/ssf/pull/87) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+3. 🗣 Commented on [#8](https://github.com/thesecuresoftwarefactory/ssf/issues/8) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. ❗️ Closed issue [#8](https://github.com/thesecuresoftwarefactory/ssf/issues/8) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 5. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
-6. 🗣 Commented on [#22](https://github.com/thesecuresoftwarefactory/ssf/issues/22) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-7. ❗️ Closed issue [#22](https://github.com/thesecuresoftwarefactory/ssf/issues/22) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-8. ❗️ Closed issue [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-9. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-10. 🗣 Commented on [#2](https://github.com/tap8stry/tkn-intoto-formatter/issues/2) in [tap8stry/tkn-intoto-formatter](https://github.com/tap8stry/tkn-intoto-formatter)
+6. 🗣 Commented on [#279](https://github.com/tektoncd/chains/issues/279) in [tektoncd/chains](https://github.com/tektoncd/chains)
+7. 🗣 Commented on [#22](https://github.com/thesecuresoftwarefactory/ssf/issues/22) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+8. ❗️ Closed issue [#22](https://github.com/thesecuresoftwarefactory/ssf/issues/22) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+9. ❗️ Closed issue [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+10. 🗣 Commented on [#10](https://github.com/thesecuresoftwarefactory/ssf/issues/10) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 <!--END_SECTION:activity-->
 
 <!---
