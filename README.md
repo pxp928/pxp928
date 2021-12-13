@@ -27,15 +27,15 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#102](https://github.com/thesecuresoftwarefactory/ssf/issues/102) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-2. 🗣 Commented on [#302](https://github.com/tektoncd/chains/issues/302) in [tektoncd/chains](https://github.com/tektoncd/chains)
-3. 💪 Opened PR [#302](https://github.com/tektoncd/chains/pull/302) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. 🎉 Merged PR [#2](https://github.com/pxp928/chains/pull/2) in [pxp928/chains](https://github.com/pxp928/chains)
-5. 💪 Opened PR [#2](https://github.com/pxp928/chains/pull/2) in [pxp928/chains](https://github.com/pxp928/chains)
-6. 🎉 Merged PR [#1](https://github.com/pxp928/chains/pull/1) in [pxp928/chains](https://github.com/pxp928/chains)
-7. 💪 Opened PR [#1](https://github.com/pxp928/chains/pull/1) in [pxp928/chains](https://github.com/pxp928/chains)
-8. ❌ Closed PR [#297](https://github.com/tektoncd/chains/pull/297) in [tektoncd/chains](https://github.com/tektoncd/chains)
-9. 💪 Opened PR [#297](https://github.com/tektoncd/chains/pull/297) in [tektoncd/chains](https://github.com/tektoncd/chains)
-10. 💪 Opened PR [#87](https://github.com/thesecuresoftwarefactory/ssf/pull/87) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+2. 🗣 Commented on [#102](https://github.com/thesecuresoftwarefactory/ssf/issues/102) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+3. 🗣 Commented on [#302](https://github.com/tektoncd/chains/issues/302) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. 💪 Opened PR [#302](https://github.com/tektoncd/chains/pull/302) in [tektoncd/chains](https://github.com/tektoncd/chains)
+5. 🎉 Merged PR [#2](https://github.com/pxp928/chains/pull/2) in [pxp928/chains](https://github.com/pxp928/chains)
+6. 💪 Opened PR [#2](https://github.com/pxp928/chains/pull/2) in [pxp928/chains](https://github.com/pxp928/chains)
+7. 🎉 Merged PR [#1](https://github.com/pxp928/chains/pull/1) in [pxp928/chains](https://github.com/pxp928/chains)
+8. 💪 Opened PR [#1](https://github.com/pxp928/chains/pull/1) in [pxp928/chains](https://github.com/pxp928/chains)
+9. ❌ Closed PR [#297](https://github.com/tektoncd/chains/pull/297) in [tektoncd/chains](https://github.com/tektoncd/chains)
+10. 💪 Opened PR [#297](https://github.com/tektoncd/chains/pull/297) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 <!---
