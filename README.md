@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#534](https://github.com/tektoncd/community/issues/534) in [tektoncd/community](https://github.com/tektoncd/community)
-2. 🗣 Commented on [#105](https://github.com/thesecuresoftwarefactory/ssf/issues/105) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+1. 💪 Opened PR [#107](https://github.com/thesecuresoftwarefactory/ssf/pull/107) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+2. 🗣 Commented on [#534](https://github.com/tektoncd/community/issues/534) in [tektoncd/community](https://github.com/tektoncd/community)
 3. 🗣 Commented on [#105](https://github.com/thesecuresoftwarefactory/ssf/issues/105) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-4. 💪 Opened PR [#105](https://github.com/thesecuresoftwarefactory/ssf/pull/105) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-5. 💪 Opened PR [#103](https://github.com/thesecuresoftwarefactory/ssf/pull/103) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-6. 🗣 Commented on [#102](https://github.com/thesecuresoftwarefactory/ssf/issues/102) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. 🗣 Commented on [#105](https://github.com/thesecuresoftwarefactory/ssf/issues/105) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+5. 💪 Opened PR [#105](https://github.com/thesecuresoftwarefactory/ssf/pull/105) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+6. 💪 Opened PR [#103](https://github.com/thesecuresoftwarefactory/ssf/pull/103) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 7. 🗣 Commented on [#102](https://github.com/thesecuresoftwarefactory/ssf/issues/102) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-8. 🗣 Commented on [#302](https://github.com/tektoncd/chains/issues/302) in [tektoncd/chains](https://github.com/tektoncd/chains)
-9. 💪 Opened PR [#302](https://github.com/tektoncd/chains/pull/302) in [tektoncd/chains](https://github.com/tektoncd/chains)
-10. 🎉 Merged PR [#2](https://github.com/pxp928/chains/pull/2) in [pxp928/chains](https://github.com/pxp928/chains)
+8. 🗣 Commented on [#102](https://github.com/thesecuresoftwarefactory/ssf/issues/102) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+9. 🗣 Commented on [#302](https://github.com/tektoncd/chains/issues/302) in [tektoncd/chains](https://github.com/tektoncd/chains)
+10. 💪 Opened PR [#302](https://github.com/tektoncd/chains/pull/302) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 <!---
