@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
-2. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+1. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. ❗️ Opened issue [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
 3. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-4. 💪 Opened PR [#119](https://github.com/thesecuresoftwarefactory/ssf/pull/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-5. ❌ Closed PR [#6](https://github.com/pxp928/ssf/pull/6) in [pxp928/ssf](https://github.com/pxp928/ssf)
-6. 💪 Opened PR [#6](https://github.com/pxp928/ssf/pull/6) in [pxp928/ssf](https://github.com/pxp928/ssf)
-7. ❌ Closed PR [#5](https://github.com/pxp928/ssf/pull/5) in [pxp928/ssf](https://github.com/pxp928/ssf)
-8. 💪 Opened PR [#5](https://github.com/pxp928/ssf/pull/5) in [pxp928/ssf](https://github.com/pxp928/ssf)
-9. 🎉 Merged PR [#4](https://github.com/pxp928/ssf/pull/4) in [pxp928/ssf](https://github.com/pxp928/ssf)
-10. 🗣 Commented on [#117](https://github.com/thesecuresoftwarefactory/ssf/issues/117) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+5. 💪 Opened PR [#119](https://github.com/thesecuresoftwarefactory/ssf/pull/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+6. ❌ Closed PR [#6](https://github.com/pxp928/ssf/pull/6) in [pxp928/ssf](https://github.com/pxp928/ssf)
+7. 💪 Opened PR [#6](https://github.com/pxp928/ssf/pull/6) in [pxp928/ssf](https://github.com/pxp928/ssf)
+8. ❌ Closed PR [#5](https://github.com/pxp928/ssf/pull/5) in [pxp928/ssf](https://github.com/pxp928/ssf)
+9. 💪 Opened PR [#5](https://github.com/pxp928/ssf/pull/5) in [pxp928/ssf](https://github.com/pxp928/ssf)
+10. 🎉 Merged PR [#4](https://github.com/pxp928/ssf/pull/4) in [pxp928/ssf](https://github.com/pxp928/ssf)
 <!--END_SECTION:activity-->
 
 <!---
