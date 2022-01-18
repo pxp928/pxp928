@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @pxp928
 - 👀  I’m interested in security, devops, programming and general automation
-- 🌱  I’m currently learning golang
+- 🌱  I’m currently using golang
 - 💞️  I’m looking to collaborate on Open Source projects
 
 <p align="center">
