@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
+1. 💪 Opened PR [#909](https://github.com/tektoncd/catalog/pull/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+2. ❗️ Opened issue [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 3. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. 🗣 Commented on [#334](https://github.com/tektoncd/chains/issues/334) in [tektoncd/chains](https://github.com/tektoncd/chains)
-5. 💪 Opened PR [#334](https://github.com/tektoncd/chains/pull/334) in [tektoncd/chains](https://github.com/tektoncd/chains)
-6. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
-7. ❗️ Opened issue [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
-8. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
+5. 🗣 Commented on [#334](https://github.com/tektoncd/chains/issues/334) in [tektoncd/chains](https://github.com/tektoncd/chains)
+6. 💪 Opened PR [#334](https://github.com/tektoncd/chains/pull/334) in [tektoncd/chains](https://github.com/tektoncd/chains)
+7. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
+8. ❗️ Opened issue [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
 9. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-10. 💪 Opened PR [#119](https://github.com/thesecuresoftwarefactory/ssf/pull/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+10. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
 <!--END_SECTION:activity-->
 
 <!---
