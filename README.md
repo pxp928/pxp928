@@ -27,15 +27,15 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#909](https://github.com/tektoncd/catalog/issues/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+2. 🗣 Commented on [#909](https://github.com/tektoncd/catalog/issues/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 3. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-4. 💪 Opened PR [#909](https://github.com/tektoncd/catalog/pull/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. ❗️ Opened issue [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-6. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. 🗣 Commented on [#119](https://github.com/thesecuresoftwarefactory/ssf/issues/119) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+5. 💪 Opened PR [#909](https://github.com/tektoncd/catalog/pull/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+6. ❗️ Opened issue [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 7. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
-8. 🗣 Commented on [#334](https://github.com/tektoncd/chains/issues/334) in [tektoncd/chains](https://github.com/tektoncd/chains)
-9. 💪 Opened PR [#334](https://github.com/tektoncd/chains/pull/334) in [tektoncd/chains](https://github.com/tektoncd/chains)
-10. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
+8. 🗣 Commented on [#332](https://github.com/tektoncd/chains/issues/332) in [tektoncd/chains](https://github.com/tektoncd/chains)
+9. 🗣 Commented on [#334](https://github.com/tektoncd/chains/issues/334) in [tektoncd/chains](https://github.com/tektoncd/chains)
+10. 💪 Opened PR [#334](https://github.com/tektoncd/chains/pull/334) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 <!---
