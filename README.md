@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
-2. ❌ Reopened PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
-3. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
-4. 🗣 Commented on [#23](https://github.com/pxp928/chains/issues/23) in [pxp928/chains](https://github.com/pxp928/chains)
-5. 💪 Opened PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
-6. 💪 Opened PR [#10](https://github.com/pxp928/pipeline/pull/10) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-7. 🎉 Merged PR [#9](https://github.com/pxp928/pipeline/pull/9) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-8. 🎉 Merged PR [#8](https://github.com/pxp928/pipeline/pull/8) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-9. 💪 Opened PR [#8](https://github.com/pxp928/pipeline/pull/8) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-10. 🎉 Merged PR [#6](https://github.com/pxp928/pipeline/pull/6) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+1. 💪 Opened PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
+2. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+3. ❌ Reopened PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+4. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+5. 🗣 Commented on [#23](https://github.com/pxp928/chains/issues/23) in [pxp928/chains](https://github.com/pxp928/chains)
+6. 💪 Opened PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+7. 💪 Opened PR [#10](https://github.com/pxp928/pipeline/pull/10) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+8. 🎉 Merged PR [#9](https://github.com/pxp928/pipeline/pull/9) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+9. 🎉 Merged PR [#8](https://github.com/pxp928/pipeline/pull/8) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+10. 💪 Opened PR [#8](https://github.com/pxp928/pipeline/pull/8) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
 <!--END_SECTION:activity-->
 
 <!---
