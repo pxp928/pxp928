@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/pxp928/chains/pull/25) in [pxp928/chains](https://github.com/pxp928/chains)
-2. 🎉 Merged PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
-3. 🎉 Merged PR [#10](https://github.com/pxp928/pipeline/pull/10) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-4. 🗣 Commented on [#909](https://github.com/tektoncd/catalog/issues/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. 💪 Opened PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
-6. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
-7. ❌ Reopened PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
-8. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
-9. 🗣 Commented on [#23](https://github.com/pxp928/chains/issues/23) in [pxp928/chains](https://github.com/pxp928/chains)
-10. 💪 Opened PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+1. 🎉 Merged PR [#25](https://github.com/pxp928/chains/pull/25) in [pxp928/chains](https://github.com/pxp928/chains)
+2. 💪 Opened PR [#25](https://github.com/pxp928/chains/pull/25) in [pxp928/chains](https://github.com/pxp928/chains)
+3. 🎉 Merged PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
+4. 🎉 Merged PR [#10](https://github.com/pxp928/pipeline/pull/10) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+5. 🗣 Commented on [#909](https://github.com/tektoncd/catalog/issues/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+6. 💪 Opened PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
+7. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+8. ❌ Reopened PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+9. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+10. 🗣 Commented on [#23](https://github.com/pxp928/chains/issues/23) in [pxp928/chains](https://github.com/pxp928/chains)
 <!--END_SECTION:activity-->
 
 <!---
