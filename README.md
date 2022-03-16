@@ -26,16 +26,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#158](https://github.com/thesecuresoftwarefactory/ssf/pull/158) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-2. 🗣 Commented on [#158](https://github.com/thesecuresoftwarefactory/ssf/issues/158) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-3. 💪 Opened PR [#158](https://github.com/thesecuresoftwarefactory/ssf/pull/158) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
-4. 🎉 Merged PR [#25](https://github.com/pxp928/chains/pull/25) in [pxp928/chains](https://github.com/pxp928/chains)
-5. 💪 Opened PR [#25](https://github.com/pxp928/chains/pull/25) in [pxp928/chains](https://github.com/pxp928/chains)
-6. 🎉 Merged PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
-7. 🎉 Merged PR [#10](https://github.com/pxp928/pipeline/pull/10) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-8. 🗣 Commented on [#909](https://github.com/tektoncd/catalog/issues/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-9. 💪 Opened PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
-10. ❌ Closed PR [#23](https://github.com/pxp928/chains/pull/23) in [pxp928/chains](https://github.com/pxp928/chains)
+1. 💪 Opened PR [#159](https://github.com/thesecuresoftwarefactory/ssf/pull/159) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+2. ❌ Closed PR [#158](https://github.com/thesecuresoftwarefactory/ssf/pull/158) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+3. 🗣 Commented on [#158](https://github.com/thesecuresoftwarefactory/ssf/issues/158) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+4. 💪 Opened PR [#158](https://github.com/thesecuresoftwarefactory/ssf/pull/158) in [thesecuresoftwarefactory/ssf](https://github.com/thesecuresoftwarefactory/ssf)
+5. 🎉 Merged PR [#25](https://github.com/pxp928/chains/pull/25) in [pxp928/chains](https://github.com/pxp928/chains)
+6. 💪 Opened PR [#25](https://github.com/pxp928/chains/pull/25) in [pxp928/chains](https://github.com/pxp928/chains)
+7. 🎉 Merged PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
+8. 🎉 Merged PR [#10](https://github.com/pxp928/pipeline/pull/10) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+9. 🗣 Commented on [#909](https://github.com/tektoncd/catalog/issues/909) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+10. 💪 Opened PR [#24](https://github.com/pxp928/chains/pull/24) in [pxp928/chains](https://github.com/pxp928/chains)
 <!--END_SECTION:activity-->
 
 <!---
