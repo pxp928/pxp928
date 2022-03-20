@@ -1,6 +1,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Parth Patel
-
-<img align='right' src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" width="230">
+<p align="center">
+<img src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" width="230">
+</p>
 
 - :nerd_face: Solutions Architect with a passion for DevOps and Cybersecurity!
 - 👀  I’m interested in Cybersecurity, DevOps, programming and general automation
