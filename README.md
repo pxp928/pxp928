@@ -1,5 +1,8 @@
-## 👋  Hi, I’m Parth Patel
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Parth Patel
 
+<img align='right' src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" width="230">
+
+- :nerd_face: Solutions Architect with a passion for DevOps and Cybersecurity!
 - 👀  I’m interested in security, devops, programming and general automation
 - 🌱  I’m currently using golang
 - 💞️  I’m looking to collaborate on Open Source projects
