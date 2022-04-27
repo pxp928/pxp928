@@ -27,16 +27,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/pxp928/ssf/pull/9) in [pxp928/ssf](https://github.com/pxp928/ssf)
-2. 🗣 Commented on [#181](https://github.com/buildsec/ssf/issues/181) in [buildsec/ssf](https://github.com/buildsec/ssf)
-3. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-4. 🗣 Commented on [#193](https://github.com/buildsec/ssf/issues/193) in [buildsec/ssf](https://github.com/buildsec/ssf)
-5. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
-6. 🗣 Commented on [#193](https://github.com/buildsec/ssf/issues/193) in [buildsec/ssf](https://github.com/buildsec/ssf)
-7. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-8. ❗️ Opened issue [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
-9. 🗣 Commented on [#643](https://github.com/tektoncd/community/issues/643) in [tektoncd/community](https://github.com/tektoncd/community)
-10. 💪 Opened PR [#4759](https://github.com/tektoncd/pipeline/pull/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+1. 💪 Opened PR [#205](https://github.com/buildsec/ssf/pull/205) in [buildsec/ssf](https://github.com/buildsec/ssf)
+2. ❌ Closed PR [#9](https://github.com/pxp928/ssf/pull/9) in [pxp928/ssf](https://github.com/pxp928/ssf)
+3. ❌ Closed PR [#8](https://github.com/pxp928/ssf/pull/8) in [pxp928/ssf](https://github.com/pxp928/ssf)
+4. 💪 Opened PR [#9](https://github.com/pxp928/ssf/pull/9) in [pxp928/ssf](https://github.com/pxp928/ssf)
+5. 🗣 Commented on [#181](https://github.com/buildsec/ssf/issues/181) in [buildsec/ssf](https://github.com/buildsec/ssf)
+6. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+7. 🗣 Commented on [#193](https://github.com/buildsec/ssf/issues/193) in [buildsec/ssf](https://github.com/buildsec/ssf)
+8. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
+9. 🗣 Commented on [#193](https://github.com/buildsec/ssf/issues/193) in [buildsec/ssf](https://github.com/buildsec/ssf)
+10. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 <!--END_SECTION:activity-->
 
 <!---
