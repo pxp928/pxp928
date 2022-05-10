@@ -27,16 +27,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+1. 🎉 Merged PR [#35](https://github.com/pxp928/chains/pull/35) in [pxp928/chains](https://github.com/pxp928/chains)
 2. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-3. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
-4. 🗣 Commented on [#385](https://github.com/tektoncd/chains/issues/385) in [tektoncd/chains](https://github.com/tektoncd/chains)
-5. ❌ Reopened PR [#17](https://github.com/pxp928/pipeline/pull/17) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-6. 💪 Opened PR [#4828](https://github.com/tektoncd/pipeline/pull/4828) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-7. 🗣 Commented on [#17](https://github.com/pxp928/pipeline/issues/17) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-8. ❌ Closed PR [#17](https://github.com/pxp928/pipeline/pull/17) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-9. 💪 Opened PR [#17](https://github.com/pxp928/pipeline/pull/17) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
-10. 🗣 Commented on [#205](https://github.com/buildsec/ssf/issues/205) in [buildsec/ssf](https://github.com/buildsec/ssf)
+3. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+4. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
+5. 🗣 Commented on [#385](https://github.com/tektoncd/chains/issues/385) in [tektoncd/chains](https://github.com/tektoncd/chains)
+6. ❌ Reopened PR [#17](https://github.com/pxp928/pipeline/pull/17) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+7. 💪 Opened PR [#4828](https://github.com/tektoncd/pipeline/pull/4828) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+8. 🗣 Commented on [#17](https://github.com/pxp928/pipeline/issues/17) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+9. ❌ Closed PR [#17](https://github.com/pxp928/pipeline/pull/17) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
+10. 💪 Opened PR [#17](https://github.com/pxp928/pipeline/pull/17) in [pxp928/pipeline](https://github.com/pxp928/pipeline)
 <!--END_SECTION:activity-->
 
 <!---
