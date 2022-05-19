@@ -27,15 +27,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. ❗️ Closed issue [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 🗣 Commented on [#596](https://github.com/sigstore/rekor/issues/596) in [sigstore/rekor](https://github.com/sigstore/rekor)
-4. ❗️ Opened issue [#221](https://github.com/buildsec/ssf/issues/221) in [buildsec/ssf](https://github.com/buildsec/ssf)
-5. 💪 Opened PR [#1](https://github.com/pxp928/cosign/pull/1) in [pxp928/cosign](https://github.com/pxp928/cosign)
-6. 💪 Opened PR [#1](https://github.com/mlieberman85/cosign/pull/1) in [mlieberman85/cosign](https://github.com/mlieberman85/cosign)
-7. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-8. 🎉 Merged PR [#35](https://github.com/pxp928/chains/pull/35) in [pxp928/chains](https://github.com/pxp928/chains)
-9. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+1. 🗣 Commented on [#222](https://github.com/buildsec/ssf/issues/222) in [buildsec/ssf](https://github.com/buildsec/ssf)
+2. 🗣 Commented on [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+3. ❗️ Closed issue [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+4. 🗣 Commented on [#596](https://github.com/sigstore/rekor/issues/596) in [sigstore/rekor](https://github.com/sigstore/rekor)
+5. ❗️ Opened issue [#221](https://github.com/buildsec/ssf/issues/221) in [buildsec/ssf](https://github.com/buildsec/ssf)
+6. 💪 Opened PR [#1](https://github.com/pxp928/cosign/pull/1) in [pxp928/cosign](https://github.com/pxp928/cosign)
+7. 💪 Opened PR [#1](https://github.com/mlieberman85/cosign/pull/1) in [mlieberman85/cosign](https://github.com/mlieberman85/cosign)
+8. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+9. 🎉 Merged PR [#35](https://github.com/pxp928/chains/pull/35) in [pxp928/chains](https://github.com/pxp928/chains)
 10. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 <!--END_SECTION:activity-->
 
