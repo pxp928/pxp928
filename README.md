@@ -27,16 +27,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#181](https://github.com/buildsec/ssf/issues/181) in [buildsec/ssf](https://github.com/buildsec/ssf)
-2. 🗣 Commented on [#221](https://github.com/buildsec/ssf/issues/221) in [buildsec/ssf](https://github.com/buildsec/ssf)
-3. 💪 Opened PR [#226](https://github.com/buildsec/ssf/pull/226) in [buildsec/ssf](https://github.com/buildsec/ssf)
-4. ❌ Closed PR [#10](https://github.com/pxp928/ssf/pull/10) in [pxp928/ssf](https://github.com/pxp928/ssf)
-5. 🗣 Commented on [#10](https://github.com/pxp928/ssf/issues/10) in [pxp928/ssf](https://github.com/pxp928/ssf)
-6. 💪 Opened PR [#10](https://github.com/pxp928/ssf/pull/10) in [pxp928/ssf](https://github.com/pxp928/ssf)
-7. 🗣 Commented on [#222](https://github.com/buildsec/ssf/issues/222) in [buildsec/ssf](https://github.com/buildsec/ssf)
-8. 🗣 Commented on [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-9. ❗️ Closed issue [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-10. 🗣 Commented on [#596](https://github.com/sigstore/rekor/issues/596) in [sigstore/rekor](https://github.com/sigstore/rekor)
+1. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+2. ❗️ Closed issue [#181](https://github.com/buildsec/ssf/issues/181) in [buildsec/ssf](https://github.com/buildsec/ssf)
+3. 🗣 Commented on [#221](https://github.com/buildsec/ssf/issues/221) in [buildsec/ssf](https://github.com/buildsec/ssf)
+4. 💪 Opened PR [#226](https://github.com/buildsec/ssf/pull/226) in [buildsec/ssf](https://github.com/buildsec/ssf)
+5. ❌ Closed PR [#10](https://github.com/pxp928/ssf/pull/10) in [pxp928/ssf](https://github.com/pxp928/ssf)
+6. 🗣 Commented on [#10](https://github.com/pxp928/ssf/issues/10) in [pxp928/ssf](https://github.com/pxp928/ssf)
+7. 💪 Opened PR [#10](https://github.com/pxp928/ssf/pull/10) in [pxp928/ssf](https://github.com/pxp928/ssf)
+8. 🗣 Commented on [#222](https://github.com/buildsec/ssf/issues/222) in [buildsec/ssf](https://github.com/buildsec/ssf)
+9. 🗣 Commented on [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+10. ❗️ Closed issue [#908](https://github.com/tektoncd/catalog/issues/908) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 <!---
