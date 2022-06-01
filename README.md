@@ -27,16 +27,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#229](https://github.com/buildsec/frsca/issues/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
-2. 💪 Opened PR [#229](https://github.com/buildsec/frsca/pull/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
-3. ❌ Closed PR [#11](https://github.com/pxp928/ssf/pull/11) in [pxp928/ssf](https://github.com/pxp928/ssf)
-4. 🗣 Commented on [#11](https://github.com/pxp928/ssf/issues/11) in [pxp928/ssf](https://github.com/pxp928/ssf)
-5. 💪 Opened PR [#11](https://github.com/pxp928/ssf/pull/11) in [pxp928/ssf](https://github.com/pxp928/ssf)
-6. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-7. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-8. 💪 Opened PR [#2](https://github.com/mlieberman85/scq/pull/2) in [mlieberman85/scq](https://github.com/mlieberman85/scq)
+1. ❗️ Opened issue [#232](https://github.com/buildsec/frsca/issues/232) in [buildsec/frsca](https://github.com/buildsec/frsca)
+2. ❗️ Opened issue [#231](https://github.com/buildsec/frsca/issues/231) in [buildsec/frsca](https://github.com/buildsec/frsca)
+3. ❗️ Opened issue [#230](https://github.com/buildsec/frsca/issues/230) in [buildsec/frsca](https://github.com/buildsec/frsca)
+4. 🗣 Commented on [#229](https://github.com/buildsec/frsca/issues/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
+5. 💪 Opened PR [#229](https://github.com/buildsec/frsca/pull/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
+6. ❌ Closed PR [#11](https://github.com/pxp928/ssf/pull/11) in [pxp928/ssf](https://github.com/pxp928/ssf)
+7. 🗣 Commented on [#11](https://github.com/pxp928/ssf/issues/11) in [pxp928/ssf](https://github.com/pxp928/ssf)
+8. 💪 Opened PR [#11](https://github.com/pxp928/ssf/pull/11) in [pxp928/ssf](https://github.com/pxp928/ssf)
 9. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-10. ❗️ Closed issue [#181](https://github.com/buildsec/ssf/issues/181) in [buildsec/ssf](https://github.com/buildsec/ssf)
+10. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 <!--END_SECTION:activity-->
 
 <!---
