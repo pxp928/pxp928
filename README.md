@@ -2,8 +2,7 @@
 
 <img align="right"  src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" width="230">
 
-- :nerd_face: Solutions Architect with a passion for DevOps and Cybersecurity!
-- 👀  I’m interested in Cybersecurity, DevOps, programming and general automation
+- :nerd_face: Solutions Architect with a passion for Cybersecurity and DevOps!
 
 <p align="center">
   <a href="https://linkedin.com/in/pxp928" target="blank">
