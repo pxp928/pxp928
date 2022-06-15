@@ -4,8 +4,6 @@
 
 - :nerd_face: Solutions Architect with a passion for DevOps and Cybersecurity!
 - 👀  I’m interested in Cybersecurity, DevOps, programming and general automation
-- 🌱  I’m currently using Golang
-- 💞️  I’m looking to collaborate on Open Source projects
 
 <p align="center">
   <a href="https://linkedin.com/in/pxp928" target="blank">
