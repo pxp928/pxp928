@@ -25,15 +25,15 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
-2. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
+2. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
 3. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
-4. ❗️ Opened issue [#233](https://github.com/buildsec/frsca/issues/233) in [buildsec/frsca](https://github.com/buildsec/frsca)
-5. ❗️ Opened issue [#232](https://github.com/buildsec/frsca/issues/232) in [buildsec/frsca](https://github.com/buildsec/frsca)
-6. ❗️ Opened issue [#231](https://github.com/buildsec/frsca/issues/231) in [buildsec/frsca](https://github.com/buildsec/frsca)
-7. ❗️ Opened issue [#230](https://github.com/buildsec/frsca/issues/230) in [buildsec/frsca](https://github.com/buildsec/frsca)
-8. 🗣 Commented on [#229](https://github.com/buildsec/frsca/issues/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
-9. 💪 Opened PR [#229](https://github.com/buildsec/frsca/pull/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
-10. ❌ Closed PR [#11](https://github.com/pxp928/ssf/pull/11) in [pxp928/ssf](https://github.com/pxp928/ssf)
+4. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
+5. ❗️ Opened issue [#233](https://github.com/buildsec/frsca/issues/233) in [buildsec/frsca](https://github.com/buildsec/frsca)
+6. ❗️ Opened issue [#232](https://github.com/buildsec/frsca/issues/232) in [buildsec/frsca](https://github.com/buildsec/frsca)
+7. ❗️ Opened issue [#231](https://github.com/buildsec/frsca/issues/231) in [buildsec/frsca](https://github.com/buildsec/frsca)
+8. ❗️ Opened issue [#230](https://github.com/buildsec/frsca/issues/230) in [buildsec/frsca](https://github.com/buildsec/frsca)
+9. 🗣 Commented on [#229](https://github.com/buildsec/frsca/issues/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
+10. 💪 Opened PR [#229](https://github.com/buildsec/frsca/pull/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
 <!--END_SECTION:activity-->
 
 <!---
