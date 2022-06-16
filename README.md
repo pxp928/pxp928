@@ -24,16 +24,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-2. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
+1. 💪 Opened PR [#462](https://github.com/tektoncd/chains/pull/462) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 3. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
-4. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
+4. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
 5. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
-6. ❗️ Opened issue [#233](https://github.com/buildsec/frsca/issues/233) in [buildsec/frsca](https://github.com/buildsec/frsca)
-7. ❗️ Opened issue [#232](https://github.com/buildsec/frsca/issues/232) in [buildsec/frsca](https://github.com/buildsec/frsca)
-8. ❗️ Opened issue [#231](https://github.com/buildsec/frsca/issues/231) in [buildsec/frsca](https://github.com/buildsec/frsca)
-9. ❗️ Opened issue [#230](https://github.com/buildsec/frsca/issues/230) in [buildsec/frsca](https://github.com/buildsec/frsca)
-10. 🗣 Commented on [#229](https://github.com/buildsec/frsca/issues/229) in [buildsec/frsca](https://github.com/buildsec/frsca)
+6. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
+7. ❗️ Opened issue [#233](https://github.com/buildsec/frsca/issues/233) in [buildsec/frsca](https://github.com/buildsec/frsca)
+8. ❗️ Opened issue [#232](https://github.com/buildsec/frsca/issues/232) in [buildsec/frsca](https://github.com/buildsec/frsca)
+9. ❗️ Opened issue [#231](https://github.com/buildsec/frsca/issues/231) in [buildsec/frsca](https://github.com/buildsec/frsca)
+10. ❗️ Opened issue [#230](https://github.com/buildsec/frsca/issues/230) in [buildsec/frsca](https://github.com/buildsec/frsca)
 <!--END_SECTION:activity-->
 
 <!---
