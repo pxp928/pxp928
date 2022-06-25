@@ -25,15 +25,15 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-2. 💪 Opened PR [#5039](https://github.com/tektoncd/pipeline/pull/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-3. 💪 Opened PR [#409](https://github.com/slsa-framework/slsa/pull/409) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
-4. 💪 Opened PR [#462](https://github.com/tektoncd/chains/pull/462) in [tektoncd/chains](https://github.com/tektoncd/chains)
-5. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-6. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
+2. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+3. 💪 Opened PR [#5039](https://github.com/tektoncd/pipeline/pull/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+4. 💪 Opened PR [#409](https://github.com/slsa-framework/slsa/pull/409) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
+5. 💪 Opened PR [#462](https://github.com/tektoncd/chains/pull/462) in [tektoncd/chains](https://github.com/tektoncd/chains)
+6. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 7. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
-8. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
+8. 🗣 Commented on [#895](https://github.com/cncf/tag-security/issues/895) in [cncf/tag-security](https://github.com/cncf/tag-security)
 9. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
-10. ❗️ Opened issue [#233](https://github.com/buildsec/frsca/issues/233) in [buildsec/frsca](https://github.com/buildsec/frsca)
+10. 🗣 Commented on [#890](https://github.com/cncf/tag-security/issues/890) in [cncf/tag-security](https://github.com/cncf/tag-security)
 <!--END_SECTION:activity-->
 
 <!---
