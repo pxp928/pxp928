@@ -32,8 +32,8 @@
 6. ❌ Closed PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
 7. ❌ Reopened PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
 8. ❌ Closed PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
-9. 💪 Opened PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
-10. ❌ Closed PR [#4](https://github.com/pxp928/go-example-app/pull/4) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+9. ❌ Reopened PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+10. ❌ Closed PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
 <!--END_SECTION:activity-->
 
 <!---
