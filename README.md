@@ -24,15 +24,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/pxp928/go-example-app/pull/1) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
-2. 💪 Opened PR [#1](https://github.com/pxp928/go-example-app/pull/1) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
-3. ❌ Closed PR [#6](https://github.com/arthurk/go-example-app/pull/6) in [arthurk/go-example-app](https://github.com/arthurk/go-example-app)
-4. 💪 Opened PR [#6](https://github.com/arthurk/go-example-app/pull/6) in [arthurk/go-example-app](https://github.com/arthurk/go-example-app)
-5. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-6. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-7. 💪 Opened PR [#5039](https://github.com/tektoncd/pipeline/pull/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-8. 💪 Opened PR [#409](https://github.com/slsa-framework/slsa/pull/409) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
-9. 💪 Opened PR [#462](https://github.com/tektoncd/chains/pull/462) in [tektoncd/chains](https://github.com/tektoncd/chains)
+1. 💪 Opened PR [#4](https://github.com/pxp928/go-example-app/pull/4) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+2. ❌ Closed PR [#3](https://github.com/pxp928/go-example-app/pull/3) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+3. 💪 Opened PR [#3](https://github.com/pxp928/go-example-app/pull/3) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+4. ❌ Closed PR [#2](https://github.com/pxp928/go-example-app/pull/2) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+5. 💪 Opened PR [#2](https://github.com/pxp928/go-example-app/pull/2) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+6. ❌ Closed PR [#1](https://github.com/pxp928/go-example-app/pull/1) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+7. 💪 Opened PR [#1](https://github.com/pxp928/go-example-app/pull/1) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+8. ❌ Closed PR [#6](https://github.com/arthurk/go-example-app/pull/6) in [arthurk/go-example-app](https://github.com/arthurk/go-example-app)
+9. 💪 Opened PR [#6](https://github.com/arthurk/go-example-app/pull/6) in [arthurk/go-example-app](https://github.com/arthurk/go-example-app)
 10. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 <!--END_SECTION:activity-->
 
