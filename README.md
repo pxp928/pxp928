@@ -27,13 +27,13 @@
 1. 🗣 Commented on [#249](https://github.com/buildsec/frsca/issues/249) in [buildsec/frsca](https://github.com/buildsec/frsca)
 2. 🗣 Commented on [#249](https://github.com/buildsec/frsca/issues/249) in [buildsec/frsca](https://github.com/buildsec/frsca)
 3. 🗣 Commented on [#249](https://github.com/buildsec/frsca/issues/249) in [buildsec/frsca](https://github.com/buildsec/frsca)
-4. 💪 Opened PR [#249](https://github.com/buildsec/frsca/pull/249) in [buildsec/frsca](https://github.com/buildsec/frsca)
-5. ❌ Closed PR [#12](https://github.com/pxp928/ssf/pull/12) in [pxp928/ssf](https://github.com/pxp928/ssf)
-6. 💪 Opened PR [#12](https://github.com/pxp928/ssf/pull/12) in [pxp928/ssf](https://github.com/pxp928/ssf)
-7. 🗣 Commented on [#5039](https://github.com/tektoncd/pipeline/issues/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+4. 🗣 Commented on [#249](https://github.com/buildsec/frsca/issues/249) in [buildsec/frsca](https://github.com/buildsec/frsca)
+5. 💪 Opened PR [#249](https://github.com/buildsec/frsca/pull/249) in [buildsec/frsca](https://github.com/buildsec/frsca)
+6. ❌ Closed PR [#12](https://github.com/pxp928/ssf/pull/12) in [pxp928/ssf](https://github.com/pxp928/ssf)
+7. 💪 Opened PR [#12](https://github.com/pxp928/ssf/pull/12) in [pxp928/ssf](https://github.com/pxp928/ssf)
 8. 🗣 Commented on [#5039](https://github.com/tektoncd/pipeline/issues/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-9. ❌ Reopened PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
-10. ❌ Closed PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
+9. 🗣 Commented on [#5039](https://github.com/tektoncd/pipeline/issues/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+10. ❌ Reopened PR [#5](https://github.com/pxp928/go-example-app/pull/5) in [pxp928/go-example-app](https://github.com/pxp928/go-example-app)
 <!--END_SECTION:activity-->
 
 <!---
