@@ -25,12 +25,12 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#273](https://github.com/cilium/tetragon/issues/273) in [cilium/tetragon](https://github.com/cilium/tetragon)
-2. 💪 Opened PR [#273](https://github.com/cilium/tetragon/pull/273) in [cilium/tetragon](https://github.com/cilium/tetragon)
-3. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-4. 🗣 Commented on [#5039](https://github.com/tektoncd/pipeline/issues/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+2. 🗣 Commented on [#273](https://github.com/cilium/tetragon/issues/273) in [cilium/tetragon](https://github.com/cilium/tetragon)
+3. 💪 Opened PR [#273](https://github.com/cilium/tetragon/pull/273) in [cilium/tetragon](https://github.com/cilium/tetragon)
+4. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 5. 🗣 Commented on [#5039](https://github.com/tektoncd/pipeline/issues/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 6. 🗣 Commented on [#5039](https://github.com/tektoncd/pipeline/issues/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-7. 🗣 Commented on [#4759](https://github.com/tektoncd/pipeline/issues/4759) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+7. 🗣 Commented on [#5039](https://github.com/tektoncd/pipeline/issues/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 8. 🗣 Commented on [#5039](https://github.com/tektoncd/pipeline/issues/5039) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 9. 🗣 Commented on [#950](https://github.com/cncf/tag-security/issues/950) in [cncf/tag-security](https://github.com/cncf/tag-security)
 10. 🗣 Commented on [#267](https://github.com/buildsec/frsca/issues/267) in [buildsec/frsca](https://github.com/buildsec/frsca)
