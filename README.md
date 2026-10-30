@@ -1,6 +1,6 @@
 Hi, I’m Parth Patel!
 
-- :nerd_face: Solutions Architect with a passion for Cybersecurity and DevOps!
+- :nerd_face: Solutions Architect with a passion for AI, Cybersecurity, Automation and DevOps!
 
 <p align="center">
   <a href="https://linkedin.com/in/pxp928" target="blank">
